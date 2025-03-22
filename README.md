@@ -106,30 +106,4 @@ Model hosted at:
 
 ## 🧠 Future Improvements
 
-- Add validation/test set
-- Implement metrics (BLEU, ROUGE, METEOR)
 - Try different decoders (T5, BART)
-- Add web UI using Streamlit
-
----
-
-## 📜 Citation
-
-If you use this work in your research, please consider citing:
-
-```
-@misc{radiologyreport2025,
-  author = {Your Name},
-  title = {Radiology Report Generation from Chest X-rays using ViT-GPT2},
-  year = {2025},
-  howpublished = {\url{https://github.com/yourusername/radiology-report-generation}}
-}
-```
-
----
-
-## 📧 Contact
-
-For questions, reach out via [GitHub Issues](https://github.com/yourusername/radiology-report-generation/issues) or email at `your.email@example.com`.
-
----
