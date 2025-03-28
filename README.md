@@ -90,7 +90,7 @@ Example output:
 
 | File | Description |
 |------|-------------|
-| `train.py` | Complete training & inference pipeline |
+| `radio_IU.ipynb` | Complete training & inference pipeline |
 | `model/` | Saved model weights and tokenizer files |
 | `requirements.txt` | Python dependencies |
 | `README.md` | This documentation |
